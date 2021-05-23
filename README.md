@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ski94114/%E7%A9%BA%E9%96%93%E9%81%8A%E6%88%B2-web/_apis/build/status/hungsk.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/ski94114/%E7%A9%BA%E9%96%93%E9%81%8A%E6%88%B2-web/_build/latest?definitionId=3&branchName=build-pipeline)
 
 # Contributing
 
