@@ -7,9 +7,14 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\mslearn-tailspin-spacegame-web-models\Tailspin.SpaceGame.Web.Models\Tailspin.SpaceGame.Web.Models.csproj" />
   </ItemGroup>
 </Project>
