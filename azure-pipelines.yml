@@ -33,7 +33,7 @@ steps:
     command: restore
     restoreSolution: '**/*.sln'
     feedsToUse: select
-    vstsFeed: 'mslearn-tailspin-spacegame-web-models/Tailspin.SpaceGame.Web.Models'
+    vstsFeed: 'Tailspin.SpaceGame.Web.Models'
 - task: DotNetCoreCLI@2
   displayName: Build the project - $(buildConfiguration)
   inputs:
